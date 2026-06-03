@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Mohith+%F0%9F%91%8B;AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;Building+Smart+Solutions+with+Python+%7C+ML+%7C+IoT;2+Live+Deployed+AI+Apps+%E2%80%94+and+counting+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Mohith+%F0%9F%91%8B;AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;ECE+Student+%40+VIT+Chennai+%F0%9F%8E%93;2+Live+Deployed+AI+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,24 +28,25 @@
 class Mohith:
     name         = "Mohith Jain"
     location     = "Chennai, Tamil Nadu 🇮🇳"
-    degree       = "B.Tech ECE @ VIT Chennai (2025–2029)"
+    degree       = "B.Tech ECE (SENSE) @ VIT Chennai (2025–2029)"
+    reg_no       = "25BEC1081"
     github       = "mohithjain0678-sudo"
     linkedin     = "mohith-jain-302076397"
 
     stack = [
         "Python", "Machine Learning", "Streamlit",
-        "Scikit-Learn", "Pandas", "FastAPI",
-        "Embedded C", "Arduino", "ESP32"
+        "Scikit-Learn", "Pandas", "Embedded C",
+        "Arduino", "ESP32", "FastAPI"
     ]
 
     currently_learning = [
         "Deep Learning → Neural Networks, CNNs",
-        "LLM Integration → Groq API, LLaMA",
+        "LLM Integration → Groq API, LLaMA 3.3",
         "Cloud → AWS Basics, CI/CD Pipelines",
         "DSA → Problem Solving, LeetCode"
     ]
 
-    fun_fact = "I once built an AI chatbot that talks about cricket 🏏"
+    fun_fact = "I built an AI chatbot that talks cricket stats 🏏"
 
     def motto(self):
         return "Success is not final, failure is not fatal."
@@ -84,11 +85,16 @@ class Mohith:
 ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
-**Databases & Tools**
+**Hardware & Embedded**
 
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Digital Electronics](https://img.shields.io/badge/Digital%20Electronics-6366F1?style=flat-square)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![joblib](https://img.shields.io/badge/joblib-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -96,21 +102,13 @@ class Mohith:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=mohithjain0678-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohithjain0678-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/mohithjain0678-sudo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohithjain0678-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=mohithjain0678-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithjain0678-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/mohithjain0678-sudo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithjain0678-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
   </a>
 </div>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohithjain0678-sudo&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -133,15 +131,15 @@ class Mohith:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Deloitte — Data Analytics Consulting Simulation &nbsp;|&nbsp; Virtual Internship &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Remote</b></summary>
+<summary><b>🏢 Deloitte — Data Analytics Consulting Simulation &nbsp;|&nbsp; Virtual Internship &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Remote (Forage)</b></summary>
 
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-70A5FD?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Visualization](https://img.shields.io/badge/Visualization-BF91F3?style=flat-square)
 
-- Completed Deloitte's virtual experience program (Forage) on the data analytics consulting track
+- Completed Deloitte's virtual experience program on the data analytics consulting track
 - Built Python telemetry parsing functions and produced retail data visualizations as client deliverables
-- Drafted a formal software development proposal document and executive presentation scripts for CEO/CMO personas
+- Drafted a formal software development proposal and executive presentation scripts for CEO/CMO personas
 - Demonstrated end-to-end consulting workflow: problem framing → data analysis → stakeholder communication
 
 </details>
@@ -154,10 +152,10 @@ class Mohith:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🔍 [**Employee Attrition Predictor**](https://github.com/mohithjain0678-sudo) | Python · Scikit-Learn · Random Forest · Streamlit · joblib | **88% accuracy** on IBM HR dataset · End-to-end ML pipeline with feature importance analysis · Monthly income, overtime & distance identified as top attrition drivers · Live on Streamlit Cloud |
-| 🏏 [**IPL AI Data Analyser**](https://github.com/mohithjain0678-sudo) | Python · Pandas · Plotly · LLaMA 3.3 · Groq API · Streamlit | **1,095 matches** & **260,920 deliveries** across 17 seasons · Natural language queries via LLaMA 3.3 chatbot · CI/CD with GitHub Actions · Live on Streamlit Cloud |
-| 🏢 [**Intelligent Maker's Desk**](https://github.com/mohithjain0678-sudo) | Arduino Uno · DHT11 · LDR · PIR · JSON · GitHub Pages | IoT smart desk with real-time environmental monitoring · Firmware-serialized JSON sensor feed · Threshold-based automated alerts & LED indicators · Dashboard hosted on GitHub Pages |
-| 🛗 [**ESP32 Elevator Simulator**](https://github.com/mohithjain0678-sudo) | ESP32 · Embedded C · LCD · LED · Interrupt-driven I/O | Real-time floor control with interrupt-driven push-button handling · Door safety interlocks · Edge-case validated (simultaneous floor requests) |
+| 🔍 [**Employee Attrition Predictor**](https://github.com/mohithjain0678-sudo) | Python · Scikit-Learn · Random Forest · Streamlit · joblib | **88% accuracy** on IBM HR dataset · End-to-end ML pipeline · Monthly income, overtime & distance as top drivers · Live on Streamlit Cloud |
+| 🏏 [**IPL AI Data Analyser**](https://github.com/mohithjain0678-sudo) | Python · Pandas · Plotly · LLaMA 3.3 · Groq API · Streamlit | **1,095 matches** & **260,920 deliveries** across 17 seasons · NL queries via LLaMA 3.3 chatbot · CI/CD with GitHub Actions · Live on Streamlit Cloud |
+| 🏢 [**Intelligent Maker's Desk**](https://github.com/mohithjain0678-sudo) | Arduino Uno · DHT11 · LDR · PIR · JSON · GitHub Pages | IoT smart desk with real-time environmental monitoring · JSON firmware · Threshold-based alerts · Dashboard on GitHub Pages |
+| 🛗 [**ESP32 Elevator Simulator**](https://github.com/mohithjain0678-sudo) | ESP32 · Embedded C · LCD · LED · Interrupts | Real-time floor control · Interrupt-driven push-button I/O · Door safety interlocks · Edge-case validated |
 
 </div>
 
@@ -170,11 +168,11 @@ class Mohith:
 | 🏅 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🤖 | **88% ML Model Accuracy** | Random Forest classifier on IBM HR dataset — built and deployed from scratch |
-| 🚀 | **2 Live Deployed AI Apps** | Employee Attrition Predictor & IPL AI Analyser — both publicly accessible on Streamlit Cloud |
+| 🚀 | **2 Live Deployed AI Apps** | Employee Attrition Predictor & IPL AI Analyser — publicly live on Streamlit Cloud |
 | 📊 | **260,920 Records Processed** | Large-scale IPL ball-by-ball analytics across 17 seasons using Pandas |
 | 🔗 | **LLM Integration** | Integrated LLaMA 3.3 via Groq API with context injection for natural language sports queries |
-| 🌐 | **Full-Stack Deployment** | CI/CD pipelines on GitHub Actions, Streamlit Cloud, Netlify, and GitHub Pages |
-| 📡 | **IoT System Built** | Real-time smart desk with multi-sensor data acquisition, JSON firmware, and live browser dashboard |
+| 🌐 | **Full-Stack Deployment** | CI/CD on GitHub Actions · Streamlit Cloud · Netlify · GitHub Pages |
+| 📡 | **IoT System Built** | Real-time smart desk with multi-sensor acquisition, JSON firmware, and live browser dashboard |
 
 </div>
 
@@ -186,7 +184,7 @@ class Mohith:
 
 | Degree | Institution | Duration | Location |
 |:-------|:------------|:---------|:---------|
-| B.Tech — Electronics & Communication Engineering | VIT Chennai (SENSE) | Aug 2025 – May 2029 | Chennai, Tamil Nadu |
+| B.Tech — Electronics & Communication Engineering (ECE Core) | VIT Chennai — SENSE Dept | Aug 2025 – May 2029 | Chennai, Tamil Nadu |
 
 </div>
 
@@ -198,8 +196,8 @@ class Mohith:
 🧠 Machine Learning     →  Deep Learning, Neural Networks, CNNs, Transfer Learning
 🤖 LLM & GenAI         →  Groq API, LLaMA, Prompt Engineering, RAG Pipelines
 ☁️  Cloud & DevOps      →  AWS Basics, Docker, CI/CD Pipelines, GitHub Actions
-💾 Databases            →  SQL, PostgreSQL, Vector Databases
-📡 Embedded Systems     →  RTOS, ESP32 Advanced, MQTT Protocol
+📡 Embedded Systems     →  RTOS, ESP32 Advanced, MQTT, Signals & Systems
+🔌 ECE Core             →  Digital Logic Design, Electromagnetics, VLSI Basics
 🧮 DSA & CP             →  Problem Solving, LeetCode, Algorithmic Thinking
 ```
 
